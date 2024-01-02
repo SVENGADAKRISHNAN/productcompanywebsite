@@ -226,6 +226,7 @@ body {
 </html>
 
  ### 2.products.html
+ 
  <!DOCTYPE html>
 <html lang="en">
   <head>
