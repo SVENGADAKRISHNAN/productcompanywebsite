@@ -181,49 +181,49 @@ body {
 }
 ## HTML CODE:
  ### 1.home.html:
- <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <title>EduSoft Private Limited</title>
-    <link rel="stylesheet" href="./css/layout.css" />
-    <link rel="icon" href="./img/icon.png" type="image/x-icon" />
-  </head>
-
-  <body>
-    <div class="container">
-      <div class="banner">EduSoft Private Limited.</div>
-      <div class="menu">
-        <div class="menuitemselected"><a href="/static/home.html">Home</a></div>
-        <div class="menuitem"><a href="/static/products.html">Products</a></div>
-        <div class="menuitem"><a href = "/static/people.html">People</a></div>
-        <div class="menuitem"><a href = "/static/contactus.html">Contact Us</a></div>
-      </div>
-      <div class="content">
-        <div class="homecontent">
-          <h1>About Us</h1>
-          <img src="./img/building.png" alt="Building" />
-          <div class="contenttext">
-            At Edusoft, we take pride in being a leading provider of high-quality
-            tally books that cater to a diverse range of industries and professionals.
-            Our commitment to excellence, innovation, and customer satisfaction 
-            sets us apart in the market, making us your go-to destination for all 
-            your tally book needs.
-            <br />
-            Why Choose Edusoft?
-            <ul>
-              <li>Quality Assurance: Our tally books undergo rigorous quality checks to ensure accuracy and durability.</li>
-              <li>Innovation: We embrace new technologies and offer customizable solutions to streamline your work.</li>
-              <li>Customer-Centric: Your satisfaction is our priority.</li>
-            </ul>
-          </div>
-        </div>
-      </div>
-      <div class="footer">
-        Copyright &#169; 2023 EduSoft Private Limited, Developed by S.VENGADA KRISHNAN
-      </div>
-    </div>
-  </body>
-</html>
+         <!DOCTYPE html>
+        <html lang="en">
+          <head>
+            <title>EduSoft Private Limited</title>
+            <link rel="stylesheet" href="./css/layout.css" />
+            <link rel="icon" href="./img/icon.png" type="image/x-icon" />
+          </head>
+        
+          <body>
+            <div class="container">
+              <div class="banner">EduSoft Private Limited.</div>
+              <div class="menu">
+                <div class="menuitemselected"><a href="/static/home.html">Home</a></div>
+                <div class="menuitem"><a href="/static/products.html">Products</a></div>
+                <div class="menuitem"><a href = "/static/people.html">People</a></div>
+                <div class="menuitem"><a href = "/static/contactus.html">Contact Us</a></div>
+              </div>
+              <div class="content">
+                <div class="homecontent">
+                  <h1>About Us</h1>
+                  <img src="./img/building.png" alt="Building" />
+                  <div class="contenttext">
+                    At Edusoft, we take pride in being a leading provider of high-quality
+                    tally books that cater to a diverse range of industries and professionals.
+                    Our commitment to excellence, innovation, and customer satisfaction 
+                    sets us apart in the market, making us your go-to destination for all 
+                    your tally book needs.
+                    <br />
+                    Why Choose Edusoft?
+                    <ul>
+                      <li>Quality Assurance: Our tally books undergo rigorous quality checks to ensure accuracy and durability.</li>
+                      <li>Innovation: We embrace new technologies and offer customizable solutions to streamline your work.</li>
+                      <li>Customer-Centric: Your satisfaction is our priority.</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <div class="footer">
+                Copyright &#169; 2023 EduSoft Private Limited, Developed by S.VENGADA KRISHNAN
+              </div>
+            </div>
+          </body>
+        </html>
 
  ### 2.products.html
  
